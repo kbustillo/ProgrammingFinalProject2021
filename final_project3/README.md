@@ -31,4 +31,4 @@ II) execute the final code which contains all the differents parts, but not with
       python DiscreteFinal.py
       
 
-The link to GitHub repository : 
+The link to GitHub repository : https://github.com/kbustillo/ProgrammingFinalProject2021.git 
